@@ -1,4 +1,4 @@
-# YuktiManthan - Social Media Content Generator
+# YuktiManthan - AI Media Content Generator
 
 A powerful social media content generator that uses AWS Bedrock for content generation and supports posting to multiple social media platforms.
 
@@ -96,3 +96,6 @@ For issues or questions:
 1. Check the troubleshooting guide
 2. Submit an issue in the repository
 3. Contact the maintainers
+# YuktiManthan---AI-media-content-generator
+Social Media Content Generator with Instagram
+>>>>>>> 89f5763c0b9862a19c750a3e9c08e1d2bf8192db
