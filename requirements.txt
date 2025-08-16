@@ -13,9 +13,9 @@ Pillow==10.0.0
 # Async Support
 asyncio==3.4.3
 
-# Instagram API
-facebook-sdk==3.1.0
-
+# Utility Packages
+python-dateutil==2.8.2
+tqdm==4.66.1
 # Utility Packages
 python-dateutil==2.8.2
 tqdm==4.66.1
